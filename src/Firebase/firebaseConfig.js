@@ -1,13 +1,13 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCXqp-2aLga5FATx61kHrduTnx83H6p8gQ",
-  authDomain: "adv-registerform.firebaseapp.com",
-  projectId: "adv-registerform",
-  storageBucket: "adv-registerform.appspot.com",
-  messagingSenderId: "186955183649",
-  appId: "1:186955183649:web:169d9288c3574846091560",
-  measurementId: "G-5W9NHEJ2WL"
+  apiKey: "AIzaSyDD9ZoLQPwU8RZauYZKu4y8He6oD8G9xvA",
+  authDomain: "adv-exer.firebaseapp.com",
+  projectId: "adv-exer",
+  storageBucket: "adv-exer.appspot.com",
+  messagingSenderId: "46568957459",
+  appId: "1:46568957459:web:506e3acf08078d50a901e6",
+  measurementId: "G-NP8CLR31K5"
 };
 
 const app = initializeApp(firebaseConfig);
